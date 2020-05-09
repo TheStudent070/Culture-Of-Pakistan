@@ -1,5 +1,5 @@
 * {
-    background-color:#BCA3AC;
+    background-color:#BCBDC0;
     margin: 30px;
  }
 body{
@@ -9,14 +9,14 @@ body{
 
 h1 {
     color: #3B413C;
-
-    margin: 50px 250px;
+    margin: 8% 30%;
     background-color: ;
     font-family: sans-serif;
     text-decoration: underline;
 }
 #one {
-    width: 800px;
+    min-width: 300px;
+    max-width: 800px;
     text-align: center;
     color:black;
     font-size: 1.2em;
@@ -24,7 +24,7 @@ h1 {
 .Sub-headings{
     text-decoration: underline;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        color:#3B413C;
+    color:#3B413C;
               
 }
 .Sub-headings:hover {
@@ -39,4 +39,21 @@ h1 {
 p {
     font-size: 1.2em;
 
+}
+.nav_bar_li {
+    text-decoration: none;
+    color: azure;
+}
+.nav_bar {
+    color: #3C91E6;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 24px;
+}
+
+.nav_bar:hover {
+    background-color: #342E37;
+    color: white;
+    padding: 10px ;
+    border-radius: 10px;
 }
