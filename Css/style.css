@@ -1,0 +1,42 @@
+* {
+    background-color:#BCA3AC;
+    margin: 30px;
+ }
+body{
+    border: 10px double black;
+       
+}
+
+h1 {
+    color: #3B413C;
+
+    margin: 50px 250px;
+    background-color: ;
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+#one {
+    width: 800px;
+    text-align: center;
+    color:black;
+    font-size: 1.2em;
+}
+.Sub-headings{
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:#3B413C;
+              
+}
+.Sub-headings:hover {
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+     
+#ending-word {
+    text-indent: 5em;
+}
+p {
+    font-size: 1.2em;
+
+}
