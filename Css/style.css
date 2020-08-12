@@ -1,22 +1,22 @@
-* {
-    background-color:#BCBDC0;
-    margin: 30px;
- }
+
 body{
     border: 10px double black;
+    background-color:#BCBDC0;
+    padding: 8px;
        
 }
 
 h1 {
     color: #3B413C;
-    margin: 8% 30%;
     background-color: ;
     font-family: sans-serif;
     text-decoration: underline;
+    text-align: center;
+
 }
 #one {
-    min-width: 300px;
-    max-width: 800px;
+
+ 
     text-align: center;
     color:black;
     font-size: 1.2em;
@@ -57,3 +57,34 @@ p {
     padding: 10px ;
     border-radius: 10px;
 }
+
+
+
+.hm-btn{
+    padding: 5px;
+    border: 2px solid black;
+    background-color: black;
+    color: #BCBDC0;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+}
+
+
+.bk-btn{
+    padding: 5px;
+    border: 2px solid black;
+    background-color: black;
+    color: #BCBDC0;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+li{
+    margin:5px;
+    padding:4px ;
+    list-style: none;
+    display: inline;
+    text-align: justify;
+}
+
